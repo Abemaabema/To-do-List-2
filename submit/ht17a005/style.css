@@ -6,6 +6,10 @@ h1 {
     text-align: center;
 }
 
+input[type=checkbox] {
+     margin: 10px; 
+    }
+
 label {
     display: inline-block;
     width: calc(100% - 20px);
