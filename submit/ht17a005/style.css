@@ -6,6 +6,11 @@ h1 {
     text-align: center;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
+body {
+     font-family: 'Noto Sans JP', sans-serif;
+     }
+     
 input[type=checkbox] {
      margin: 10px; 
     }
